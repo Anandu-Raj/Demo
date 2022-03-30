@@ -75,12 +75,8 @@ public class GoPadelTestBase {
 				"\\src\\main\\java\\GoPadelURL\\URL\\" + ENV +  ".properties");		 
 		envConfig = new Properties();
 		envConfig.load(configFile);	
+		 driver.get(envConfig.getProperty("baseUrl"));   
 	}
-	
-	@BeforeMethod()
-    public void loadBaseUrl(Method method) {
-        driver.get(envConfig.getProperty("baseUrl"));      
-    }
  
     @AfterSuite
     public void suiteTearDown() {

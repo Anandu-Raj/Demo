@@ -3,14 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="GoPadelLoginTest.GoPadelLoginTest">
+      <class name="GoPadelTest.GoPadelTest">
         <methods>
           <include name="suiteTearDown"/>
           <include name="suiteSetup"/>
-          <include name="loginTest"/>
-          <include name="loadBaseUrl"/>
+          <include name="bookingWindowDetails"/>
         </methods>
-      </class> <!-- GoPadelLoginTest.GoPadelLoginTest -->
+      </class> <!-- GoPadelTest.GoPadelTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
