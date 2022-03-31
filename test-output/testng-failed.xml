@@ -6,8 +6,9 @@
       <class name="GoPadelTest.GoPadelTest">
         <methods>
           <include name="suiteTearDown"/>
+          <include name="bookingCalenderTest"/>
           <include name="suiteSetup"/>
-          <include name="bookingWindowDetails"/>
+          <include name="verifyDetails"/>
         </methods>
       </class> <!-- GoPadelTest.GoPadelTest -->
     </classes>

@@ -42,6 +42,7 @@ public class GoPadelTest extends GoPadelTestBase {
 	public void verifyDetails() {
 
 		calendarPage = new GoPadelCalendarPage(driver);
+		
 		String ExpectedTitle = "Calendar";
 		String ActualTitle = calendarPage.calendarPageDetails();
 		log.info("expectedTitle-" + ExpectedTitle + " and actualTitle - " + ActualTitle);
@@ -49,19 +50,10 @@ public class GoPadelTest extends GoPadelTestBase {
 
 		calendarPage.padelName();
 		calendarPage.branchName();
-		calendarPage.rightClickOnTimeSlots();
 		calendarPage.arrowButtons();
 		calendarPage.bookingWindow();
 
 	}
 
-	@Test
-	public void bookingWindowDetails() {
-
-		calendarPage = new GoPadelCalendarPage(driver);
-
-		calendarPage.bookingWindow();
-
-	}
 
 }

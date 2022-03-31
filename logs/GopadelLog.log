@@ -76,3 +76,127 @@
 17:27:23.482 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
 17:27:23.482 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
 17:27:33.792 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+09:08:58.037 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+09:08:58.081 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+09:11:49.283 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+09:11:49.284 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+09:11:59.532 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+09:18:27.251 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+09:18:27.273 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+09:21:41.380 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+09:21:41.381 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+09:21:51.664 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+09:24:55.935 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+09:24:55.959 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+09:27:58.376 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+09:27:58.377 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+09:28:08.935 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+09:33:27.543 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+09:33:27.571 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+09:36:18.588 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+09:36:18.589 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+09:36:38.950 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+09:39:09.016 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+09:39:09.047 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+09:41:54.214 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+09:41:54.214 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+09:42:14.934 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+10:28:21.371 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+10:28:21.395 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+10:31:05.710 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+10:31:05.710 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+10:31:26.269 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+11:00:08.667 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:00:08.689 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:02:54.490 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+11:02:54.490 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+11:03:15.008 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+11:09:12.567 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:09:12.594 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:12:02.252 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+11:12:02.254 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+11:12:22.830 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+11:15:20.569 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:15:20.591 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:18:10.569 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+11:18:10.570 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+11:18:20.841 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+11:22:39.291 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:22:39.313 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:25:25.293 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+11:25:25.293 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+11:25:45.978 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+11:34:46.506 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:34:46.539 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:37:30.705 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+11:37:30.706 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+11:38:21.301 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+11:43:27.698 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:43:27.728 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:46:14.713 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+11:46:14.713 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+11:46:15.688 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+11:52:59.776 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:52:59.796 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:55:44.994 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+11:55:44.995 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+11:55:55.498 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+11:57:10.762 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:57:10.785 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:59:57.288 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+11:59:57.288 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+12:00:07.904 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+12:03:42.558 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:03:42.602 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:06:30.201 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+12:06:30.201 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+12:06:40.780 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+12:10:51.025 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:10:51.054 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:13:37.459 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+12:13:37.459 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+12:13:48.029 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+12:15:15.152 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:15:15.184 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:18:00.450 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+12:18:00.451 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+12:18:11.122 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+12:21:21.139 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:21:21.165 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:24:09.086 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+12:24:09.086 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+12:24:09.499 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+12:34:58.781 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:34:58.808 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:37:45.996 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+12:37:45.998 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+12:37:56.272 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+12:41:27.977 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:41:28.001 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:45:05.426 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:45:05.459 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:47:55.598 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+12:47:55.598 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+12:47:56.127 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+12:52:04.153 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:52:04.203 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:54:54.446 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+12:54:54.447 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+12:54:54.808 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+13:01:06.020 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+13:01:06.067 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+13:03:51.682 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+13:03:51.683 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+13:03:52.446 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+13:09:42.002 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+13:09:42.037 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+13:12:29.815 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+13:12:29.815 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+13:12:30.412 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+13:35:50.471 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+13:35:50.501 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+13:38:40.583 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+13:38:40.585 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gopadel.cadvil.com/admin/padel-calenderV2 and actualUrl - https://gopadel.cadvil.com/admin/padel-calenderV2
+13:38:41.117 [main] INFO  GoPadelTest.GoPadelTest - expectedTitle-Calendar and actualTitle - Calendar
+13:40:33.967 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+13:40:33.992 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
